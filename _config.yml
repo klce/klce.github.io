@@ -6,14 +6,15 @@ favicon: images/favicon.ico
 name: Kevin Esguerra
 title: Software Engineer
 email: klcesguerra@gmail.com
-website: www.github.com/klce/klce.github.io
+
+darkmode: true
 
 # Social links
 github_username:  klce
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: in/kevin-esguerra-359b8253
+linkedin_username: kevin-esguerra-359b8253
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
 
